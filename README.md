@@ -1,0 +1,3 @@
+# vercel-EasyPixivAPI
+
+使用vercel部署的简易pixiv api，作用是通过图片ID返回图片的一系列信息或者是直接跳转到代理站
